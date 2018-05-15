@@ -1,0 +1,1792 @@
+[master 5e641d1] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 791 insertions(+)
+ create mode 100644 Makefile
+ create mode 100644 fliz.l
+ create mode 100644 fliz.y
+[master 5ec4e53] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 2 deletions(-)
+[master 3dbedb0] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 494b0ef] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+), 8 deletions(-)
+[master 207e6b9] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+[master 629de3a] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.fliz.l.swp
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.fliz.l.swp
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+[master aad98d7] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+[master 351a89e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bddc0f3] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master 19486eb] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 12 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.fliz.l.swp
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+[master 333c623] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+[master 6ec97b5] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master e3dfe17] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.fliz.l.swp
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+[master 099b745] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 3a08206] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8b17733] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a1d2d35] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[master 066e37e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 9 deletions(-)
+[master b14a577] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6626fce] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.fliz.l.swp
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+[master 2cc229d] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c9be631] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 4142 insertions(+), 1 deletion(-)
+ create mode 100644 lex.yy.c
+ create mode 100644 y.tab.c
+ create mode 100644 y.tab.h
+[master cd8ca0e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 50 insertions(+), 23 deletions(-)
+[master 229f573] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 87 insertions(+), 60 deletions(-)
+[master 04ecc85] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+[master eb22aff] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+[master 62c348d] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 4 deletions(-)
+[master eae7774] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master afba090] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4171 deletions(-)
+ delete mode 100644 lex.yy.c
+ delete mode 100644 y.tab.c
+ delete mode 100644 y.tab.h
+[master f34ba80] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4171 insertions(+)
+ create mode 100644 lex.yy.c
+ create mode 100644 y.tab.c
+ create mode 100644 y.tab.h
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz
+	fliz.l~
+	lex.yy.o
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master a293853] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+[master e7a93b6] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+), 15 deletions(-)
+[master 61149a8] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+), 3 deletions(-)
+[master 0db5a7d] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 16 insertions(+), 18 deletions(-)
+[master e1d39f2] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 31 insertions(+), 4 deletions(-)
+[master ea96c35] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master ccff6da] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 12 insertions(+), 12 deletions(-)
+[master bf8b23a] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7e76ad7] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 14 insertions(+), 2 deletions(-)
+[master 84e5fca] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 6 deletions(-)
+[master a43bbf6] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 3fb09af] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 10ff672] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1e03a03] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 9 insertions(+), 7 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz
+	fliz.l~
+	lex.yy.o
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 6739cc0] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4171 deletions(-)
+ delete mode 100644 lex.yy.c
+ delete mode 100644 y.tab.c
+ delete mode 100644 y.tab.h
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz.l~
+
+nothing added to commit but untracked files present
+[master 9f89177] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 7 deletions(-)
+[master 27a4fab] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 9f7fd1c] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 4167 insertions(+), 7 deletions(-)
+ create mode 100644 lex.yy.c
+ create mode 100644 y.tab.c
+ create mode 100644 y.tab.h
+[master 105f4a6] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 56 insertions(+), 56 deletions(-)
+[master 5cfeee3] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 88 insertions(+), 75 deletions(-)
+[master b44aa0d] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+[master 1c4780e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 3 insertions(+), 4173 deletions(-)
+ delete mode 100644 lex.yy.c
+ delete mode 100644 y.tab.c
+ delete mode 100644 y.tab.h
+[master 769c747] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 4173 insertions(+), 1 deletion(-)
+ create mode 100644 lex.yy.c
+ create mode 100644 y.tab.c
+ create mode 100644 y.tab.h
+[master d42065d] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 838f9f0] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 76fbf75] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+[master 27189d3] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 5 deletions(-)
+[master aeb0995] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+[master c237a4e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 45ffa7b] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 754f0a4] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+[master 446c322] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+[master 4a845ac] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 41 insertions(+), 39 deletions(-)
+[master 80fff8c] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+[master d5c6c0f] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+[master 32e0460] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+[master 327f053] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 57f4c55] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4288d98] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+[master 7f1a283] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 2 insertions(+), 4177 deletions(-)
+ delete mode 100644 lex.yy.c
+ delete mode 100644 y.tab.c
+ delete mode 100644 y.tab.h
+[master f3e1121] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 4179 insertions(+), 3 deletions(-)
+ create mode 100644 lex.yy.c
+ create mode 100644 y.tab.c
+ create mode 100644 y.tab.h
+[master adceeb9] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+[master 3a00d1c] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+[master 5b460cc] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 023af6c] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 482570e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 17 deletions(-)
+[master ace0d5a] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 27b0177] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 96 insertions(+), 107 deletions(-)
+[master 86eaa2e] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+[master aa498f0] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+[master 6eb8d0a] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+[master 480c6a3] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 36 insertions(+), 35 deletions(-)
+[master 6ecb944] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 55 insertions(+), 53 deletions(-)
+[master 7356db5] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 76 insertions(+), 74 deletions(-)
+[master 4f30f7a] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 35 insertions(+), 34 deletions(-)
+[master 8455895] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 24 insertions(+), 21 deletions(-)
+[master 38a4193] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 27 insertions(+), 25 deletions(-)
+[master 57ed7b3] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+[master f90abd2] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 23436c9] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+[master 6c7e4c6] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz
+	fliz.l~
+	lex.yy.o
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 1a4d5cd] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1c14d41] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 13 insertions(+), 11 deletions(-)
+[master ae6c5bf] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+[master cbd19e1] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+[master af78270] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 023fb53] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 13 insertions(+), 13 deletions(-)
+[master 9b8a1df] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 1 insertion(+), 4174 deletions(-)
+ delete mode 100644 lex.yy.c
+ delete mode 100644 y.tab.c
+ delete mode 100644 y.tab.h
+[master 8030a50] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 4159 insertions(+), 3 deletions(-)
+ create mode 100644 lex.yy.c
+ create mode 100644 y.tab.c
+ create mode 100644 y.tab.h
+[master c18116b] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 49 insertions(+), 36 deletions(-)
+ create mode 100644 flizcode.f
+[master a88bb4d] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 2727b0f] Commit
+ Committer: Vihar Kiran Patel <patel486@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz
+	fliz.l~
+	lex.yy.o
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lex.yy.o
+	fiz/y.tab.o
+	fliz
+	fliz.l~
+	lex.yy.o
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 93bf671] Commit
+ Committer: Vihar Kiran Patel <patel486@pod4-4.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4156 deletions(-)
+ delete mode 100644 lex.yy.c
+ delete mode 100644 y.tab.c
+ delete mode 100644 y.tab.h
+[master 9064d16] Commit
+ Committer: Vihar Kiran Patel <patel486@pod4-4.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4045 insertions(+)
+ create mode 100644 fiz/lex.yy.c
+ create mode 100644 fiz/y.tab.c
+ create mode 100644 fiz/y.tab.h
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	0
+	diff.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/diff.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lcm.out
+	fiz/lex.yy.o
+	fiz/minv.out
+	fiz/sroot.out
+	fiz/total.txt
+	fiz/y.tab.o
+	fliz.l~
+	head.out
+	ifa.out
+	ifn.out
+	lcm.out
+	list.out
+	minv.out
+	part2.out
+	sroot.out
+	tail.out
+	total.txt
+
+nothing added to commit but untracked files present
+[master 4df09e2] Commit
+ Committer: Vihar Kiran Patel <patel486@pod4-4.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4045 insertions(+)
+ create mode 100644 fiz/lex.yy.c
+ create mode 100644 fiz/y.tab.c
+ create mode 100644 fiz/y.tab.h
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#fliz.l#
+	#fliz.y#
+	.local.git.out
+	0
+	diff.out
+	fiz/#Makefile#
+	fiz/.local.git.out
+	fiz/diff.out
+	fiz/fiz
+	fiz/fizcode.f~
+	fiz/lcm.out
+	fiz/lex.yy.o
+	fiz/minv.out
+	fiz/sroot.out
+	fiz/total.txt
+	fiz/y.tab.o
+	fliz.l~
+	head.out
+	ifa.out
+	ifn.out
+	intlist.out
+	lcm.out
+	list.out
+	minv.out
+	part2.out
+	part4.out
+	recreverse.out
+	reverse.out
+	sroot.out
+	tail.out
+	total.txt
+
+nothing added to commit but untracked files present
